@@ -6,6 +6,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto
 [![Build Status](https://app.travis-ci.com/emanuelfilipes/libpythonpro.svg?branch=main)](https://app.travis-ci.com/emanuelfilipes/libpythonpro)
 [![Updates](https://pyup.io/repos/github/emanuelfilipes/libpythonpro/shield.svg)](https://pyup.io/repos/github/emanuelfilipes/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/emanuelfilipes/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/emanuelfilipes/libpythonpro/)
+[![codecov](https://codecov.io/gh/emanuelfilipes/libpythonpro/branch/main/graph/badge.svg?token=RD1P14OOLG)](https://codecov.io/gh/emanuelfilipes/libpythonpro)
+
+
 
 Suportada a versão 3 de python
 
