@@ -11,4 +11,8 @@ iniconfig==1.1.1
 attrs==21.2.0
 atomicwrites==1.4.0
 pytest==6.2.5
+
+#Converage
+coverage==5.5
+pytest-cov==2.12.1
 -r requirements.txt
