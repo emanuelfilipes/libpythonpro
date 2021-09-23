@@ -47,3 +47,5 @@ def test_parametros_de_spam(sessao):
         'Curso Python Pro',
         'Confira os módulos fantásticos'
     )
+
+

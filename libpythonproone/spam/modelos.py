@@ -3,3 +3,4 @@ class Usuario:
         self.email = email
         self.nome = nome
         self.id = None
+

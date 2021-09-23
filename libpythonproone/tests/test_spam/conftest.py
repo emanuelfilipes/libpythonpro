@@ -18,3 +18,4 @@ def sessao(conexao):
     yield sessao_obj
     sessao_obj.roll_back()
     sessao_obj.fechar()
+
